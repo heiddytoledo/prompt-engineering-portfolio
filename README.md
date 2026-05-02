@@ -10,7 +10,6 @@ I'm a prompt engineer and curriculum designer specializing in AI systems for edu
 FORMALIZA is not a prototype. It is a certified, live educational product:
 - Certified by **Florida Global University** (institution #10191)
 - AI tutor built on **Claude API by Anthropic**
-- Partnership with the **Tulsa Hispanic Chamber of Commerce**
 - Platform live at [wakia.app](https://wakia.app)
 
 ---
