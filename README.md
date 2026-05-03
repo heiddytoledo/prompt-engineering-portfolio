@@ -70,6 +70,11 @@ FORMALIZA was built without writing a single line of code. The architecture is i
 
 ---
 
+Note: This repository documents the architectural approach and design decisions behind the system. 
+The production implementation, curriculum content, and knowledge base are proprietary to WakIA.
+
+---
+
 ## Contact
 
 **Heiddy Toledo**  
